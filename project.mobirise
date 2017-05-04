@@ -9,7 +9,10 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 12,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "https://cfariadna.github.io/"
   },
   "pages": {
     "index.html": {
