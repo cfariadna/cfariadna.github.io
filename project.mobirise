@@ -12,7 +12,7 @@
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "https://cfariadna.github.io/"
+    "google-analytics": "UA-98421677-1"
   },
   "pages": {
     "index.html": {
